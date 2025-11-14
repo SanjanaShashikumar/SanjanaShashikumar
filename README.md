@@ -3,8 +3,7 @@
 Hey there!!  
 I am **Sanjana Shashikumar**, a CS Grad student at San Diego State University.  
 
-I am eager to learn and grow in the field of **Cybersecurity** and **Distributed Systems**.  
-I am skilled in **Software Development, Cybersecurity, and Machine Learning**.  
+Eager to learn and grow in the field of **Cybersecurity** and **Distributed Systems**.  
 
 🔊 Reach me at **sshashikumar4181@sdsu.edu**  
 
