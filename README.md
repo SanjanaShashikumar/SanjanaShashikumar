@@ -8,5 +8,4 @@ Currently exploring Penetration Testing and Distributed Storage Systems
 
 ### Connect with me:
 
-[![https://www.linkedin.com/in/sanjanashashikumar9824/](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/sanjanashashikumar9824/)
-[![_sanjana_shashikumar](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/_sanjana_shashikumar)
+[LinkedIn](https://www.linkedin.com/in/sanjanashashikumar9824/)
